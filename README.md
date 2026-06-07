@@ -9,7 +9,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%92%96;Full-Stack+Developer+%E2%9C%A8;Oracle+AI+Professional+%F0%9F%8C%9F;Computer+Science+Student+%F0%9F%92%AB)
 
 </div>
----
 
 ## 🌸 About Me
 
