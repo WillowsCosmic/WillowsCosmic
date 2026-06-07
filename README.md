@@ -1,130 +1,135 @@
+# Hello Beautiful! I'm Purbali 💖✨
+
 <div align="center">
-
-# 💖✨ Hey there, I'm Purbali! ✨💖
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-**Welcome to my magical coding universe!** 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%92%96;Full-Stack+Developer+%E2%9C%A8;Oracle+AI+Associate+%F0%9F%8C%9F;Computer+Science+Student+%F0%9F%92%AB)
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200"/>
-
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Sparkly magic">
 </div>
 
----
-
-## 🌸 About Me 🌸
-
-> *"Coding dreams into reality, one pink pixel at a time!"* 💕
-
-Hi beautiful souls! I'm Purbali, a **Computer Science Engineering student** with a passion for creating magical digital experiences! ✨ With **2+ years** of full-stack development experience, I love turning ideas into stunning applications that make people's lives better! 🌈
-
-🎀 **Currently**: Crafting AI-powered solutions & building amazing web apps  
-💎 **Certified**: Oracle AI Associate (because smart is the new pretty! 💅)  
-🌟 **Mission**: Making technology more accessible and beautiful for everyone!  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%92%96;Full-Stack+Developer+%E2%9C%A8;Oracle+AI+Professional+%F0%9F%8C%9F;Computer+Science+Student+%F0%9F%92%AB)
 
 ---
 
-## 💅 Tech Stack & Skills 💅
+## 🌸 About Me
 
-<div align="center">
+ Hey gorgeous! I'm a **Computer Science student** and **AI/ML Engineer** with over 2 years of sparkling experience in full-stack development! 💕 Certified as an **Oracle AI Associate** because this girl knows her AI magic! 🎀
 
-### 🎨 **Programming Languages**
+*Currently weaving digital dreams and turning coffee into code* ☕✨
+
+---
+
+## 🎀 My Projects ✨
+
+### 🎤 InterVox - AI Interview Prep Princess
+![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white)
+
+*An AI-powered voice interviewer for perfect prep* ✨
+- Smart interview preparation with voice AI technology
+- Helps aspiring princesses nail their dream job interviews  
+- Built with TypeScript magic and lots of sparkles
+
+### 📚 Intellibre - AI eBook Creator Fairy
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
+
+*Transform ideas into beautiful eBooks instantly* 🌸
+- AI-powered eBook creation with MERN stack
+- Features AI writing assistance & immersive reader
+- Instant export with a touch of digital fairy dust
+
+### 🎬 Movie Recommender Model
+![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=for-the-badge&logo=jupyter&logoColor=white)
+
+*Content-based movie magic* 💖
+- ML model using TMDB 5000 movies dataset  
+- TF-IDF vectors for finding your perfect movie match
+- Genre, keyword & cast analysis with algorithmic love
+
+### 🏏 T20 Cricket Prediction  
+![Jupyter](https://img.shields.io/badge/Jupyter-FF1493?style=for-the-badge&logo=jupyter&logoColor=white)
+
+*Predicting cricket scores with ML sparkles* ⚡
+- Machine learning model for T20 cricket score prediction
+- Uses historical data & XGBoost algorithms 
+- Perfect for cricket-loving code princesses
+
+### 📄 ConversePDF - Document Chat Reader
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💖 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-FFC0CB?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-FF1493?style=for-the-badge&logo=express&logoColor=white)
+*AI-powered PDF Q&A magic* 🦄
+- Upload PDFs and chat with them using FastAPI
+- Streamlit frontend with LlamaIndex processing
+- Making documents talk like digital fairy tales
 
-### ☁️ **Cloud & Databases**
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF69B4?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-FFB6C1?style=for-the-badge&logo=microsoftazure&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛍️ ShopVerse - E-commerce Empress
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
 
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
-</div>
+*Full-stack shopping paradise* 💕
+- Complete e-commerce platform with MERN stack
+- User & admin panels with shopping cart magic
+- Serving online shoppers with style and grace
 
 ---
 
-## 🌺 Featured Projects 🌺
+## 💻 Tech Stack Sparkles ✨
 
-### 💕 **AI-Powered Mental Health Companion**
-*Because everyone deserves emotional support!* 🤗
-- 🎀 Built with **TensorFlow** and **React.js**
-- 💖 Helps users track mood and provides personalized wellness tips
-- ✨ Deployed on cloud platform serving happy users worldwide!
+**Programming Languages** 💕
+- 🐍 Python (my coding soulmate)
+- 💛 JavaScript (makes everything interactive and cute)
+- 📘 TypeScript (JavaScript's sophisticated sister)
+- ☁️ Cloud Technologies (floating on digital clouds)
 
-### 🌟 **Job Search Platform**
-*Connecting dreams with opportunities!* 💼✨
-- 🎨 Full-stack application with beautiful UI/UX
-- 💎 Smart matching algorithm for perfect job fits
-- 🌈 Built with **React.js** and **Node.js**
+**Frontend Magic** 🌸  
+- ⚛️ React.js (building beautiful UIs)
+- 🎨 HTML/CSS (painting the web pretty)
+- 💅 Streamlit (quick & gorgeous data apps)
+- ✨ Responsive Design (looks cute on every device)
 
-### 🎬 **Movie Recommendation Model**
-*For all the movie night queens!* 🍿👑
-- 🌸 Machine learning magic with **Python**
-- 💫 Personalized recommendations based on preferences
-- 🎀 Scalable architecture serving thousands of film lovers
+**Backend & AI Sorcery** 🦄
+- 🚀 FastAPI (speedy backend goddess)
+- 🧠 TensorFlow (AI magic maker)
+- 📊 Machine Learning (data whispering)  
+- 🤖 XGBoost (gradient boosting brilliance)
+- 📚 LlamaIndex (document processing fairy)
+- 🔍 TF-IDF (text analysis enchantress)
 
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Projects" width="300"/>
-</div>
+**Databases & Cloud** 💖
+- 🍃 MongoDB (document love)
+- 🗃️ SQL (structured query sweetness)
+- ☁️ Oracle Cloud & Microsoft Azure (cloud princess)
+- 🐘 PostgreSQL (reliable data companion)
 
----
-
-## 🏆 Achievements & Sparkles 🏆
-
-<div align="center">
-
-🌟 **Oracle AI Associate Certification**  
-💎 **Multiple Full-Stack Applications Deployed**  
-✨ **Database Performance Optimization Expert**  
-🎀 **Competitive Programming Recognition**  
-💖 **Open Source Contributor**  
-
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Achievement" width="200"/>
-</div>
+**Development Tools** ✨
+- 📓 Jupyter Notebook (data science playground)
+- 🛠️ Git/GitHub (version control cuteness)  
+- 🐳 Docker (containerized magic)
+- 📱 Full-Stack Development (end-to-end enchantment)
 
 ---
 
+## 🏆 Achievements & Sparkles
+
+- 🎓 **Oracle AI Associate Certified** - Because AI is my superpower!
+- 🚀 **Multiple Full-Stack Deployments** - Apps serving thousands with love
+- ⚡ **Database Optimization Queen** - Making queries run faster than unicorns
+- 🏅 **Competitive Programming Recognition** - Solving problems with style
+- 🌟 **Open Source Contributor** - Spreading code love across the community
 
 
-## 🌈 Let's Connect & Create Magic Together! 🌈
+
+## 💕 Let's Connect & Create Magic Together!
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purbali-ghosh-791b8633b/)
-[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](ghoshpurbali19@gmail.com)
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 💕</em>
+[![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillowsCosmic)
+[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](ghoshpurbali19@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💖 "Code with passion, debug with patience, deploy with pride!" 💖
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp;***Thanks for visiting my little corner of GitHub!***&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=purbali&color=FF69B4&style=flat-square&label=Profile+Views+💕)
-
-⭐ **Star my repos if you find them helpful!** ⭐  
-💌 **Let's build something beautiful together!** 💌
-
+  <img src="https://media.giphy.com/media/3oEduOnl5IHM5NRodO/giphy.gif" width="200" alt="Thank you sparkles">
+  
+  **✨ Thanks for visiting my magical coding kingdom! ✨**
+  
+  *Let's build something beautiful together! 💖*
 </div>
