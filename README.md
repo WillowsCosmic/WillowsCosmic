@@ -1,10 +1,13 @@
 # Hello Beautiful! I'm Purbali 💖✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Sparkly magic">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzOWlpcWp3cGdxcDg4b2VndHFnMXJhbDZoZ3Zqcm54Y3pvMTM1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B1GOoAFv1Zd0NRYcwa/giphy.gif" width="300" alt="Sparkly magic">
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%92%96;Full-Stack+Developer+%E2%9C%A8;Oracle+AI+Professional+%F0%9F%8C%9F;Computer+Science+Student+%F0%9F%92%AB)
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%92%96;Full-Stack+Developer+%E2%9C%A8;Oracle+AI+Professional+%F0%9F%8C%9F;Computer+Science+Student+%F0%9F%92%AB)
+</div>
+
 
 ---
 
@@ -127,7 +130,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEduOnl5IHM5NRodO/giphy.gif" width="200" alt="Thank you sparkles">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR3MGZwcmk2djh5MmhlbGdyd3Q1czlyMGNuNG00MTJ0MHNod3NieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLw1IyV21JF1U6fbG7/giphy.gif" width="200" alt="Thank you sparkles">
   
   **✨ Thanks for visiting my magical coding kingdom! ✨**
   
