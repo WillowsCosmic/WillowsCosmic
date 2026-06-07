@@ -91,7 +91,6 @@ Hi beautiful souls! I'm Purbali, a **Computer Science Engineering student** with
 ✨ **Database Performance Optimization Expert**  
 🎀 **Competitive Programming Recognition**  
 💖 **Open Source Contributor**  
-🌈 **Agile Development Methodology Pro**  
 
 </div>
 
@@ -101,27 +100,15 @@ Hi beautiful souls! I'm Purbali, a **Computer Science Engineering student** with
 
 ---
 
-## 📊 GitHub Stats (Pretty in Pink!) 📊
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=purbali&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=FFC0CB" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=purbali&theme=radical&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFC0CB" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purbali&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFC0CB" alt="Top Languages" width="50%"/>
-
-</div>
-
----
 
 ## 🌈 Let's Connect & Create Magic Together! 🌈
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purbali-ghosh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=safari&logoColor=black)](https://purbali.dev)
-[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](mailto:purbali@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-FF1493?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/purbali_codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purbali-ghosh-791b8633b/)
+[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](ghoshpurbali19@gmail.com)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 💕</em>
 
